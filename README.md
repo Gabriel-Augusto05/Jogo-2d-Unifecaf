@@ -1,6 +1,6 @@
 # Jogo-2d-Tlemap-Unifecaf
 
-🎮 2D Tilemap Platformer — Unity
+🎮 2D Tilemap — Unity
 
 Um jogo de plataforma 2D desenvolvido na Unity como projeto final da disciplina de Game Development (UniFECAF). O jogo foi criado para demonstrar habilidades técnicas e criativas no uso da engine Unity, incluindo mecânicas de movimento fluido, design de níveis progressivos, sistema de coletáveis, animações e áudio.
 
